@@ -19,7 +19,7 @@
 
  <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 	<preference name="deployment-target" value="10.0" />
-	<preference name="android-minSdkVersion" value="21" />
+	<preference name="android-minSdkVersion" value="29" />
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
